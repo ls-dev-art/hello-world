@@ -11,7 +11,6 @@ developers:
 - matthiskheimensen+owner@gmail.com
 instructors: []
 maintenance: true
-skipping_enabled: true
 idle_timeout: 0
 timelimit: 0
 lab_config:

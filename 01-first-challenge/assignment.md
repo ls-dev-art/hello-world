@@ -2,7 +2,7 @@
 slug: first-challenge
 id: 9mluurzimftb
 type: challenge
-title: First challenge 1
+title: First challenge
 teaser: Teaser
 notes:
 - type: text
